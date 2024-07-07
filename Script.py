@@ -44,7 +44,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="https://github.com/Mayuri-Chan/pyrofork">ᴘʏʀᴏғᴏʀᴋ</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ʟᴏʀᴅ ᴋʀɪsʜɴᴀ
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/ThaFallenStar">ᴛʜᴀ ғᴀʟʟᴇɴ sᴛᴀʀ</a>
-🧑🏻‍💻 sᴏᴜʀᴄᴇ : ᴘʀɪᴠᴀᴛᴇ, ʙᴜᴛ ɪғ ʏᴏᴜ <a href="https://github.com/biisal/biisal-filter-bot">ᴡᴀɴɴᴀ ʙᴜʏ</a>
+🧑🏻‍💻 sᴏᴜʀᴄᴇ : ᴘʀɪᴠᴀᴛᴇ, ʙᴜᴛ ɪғ ʏᴏᴜ <a href="https://t.me/MetaZoWner">ᴡᴀɴɴᴀ ʙᴜʏ</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
