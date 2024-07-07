@@ -2,7 +2,7 @@ name: aptible
 
 on:
   push:
-    branches: [main]
+    branches: [master]
   workflow_dispatch: {}
 
 jobs:
@@ -18,5 +18,5 @@ jobs:
         type: git
         app: wmoviezx
         environment: wmoviez
-        username: ${{ secrets.random coder }}
+        username: ${{ secrets.randomcoder }}
         password: ${{ secrets.TheDazai2570@ }}
